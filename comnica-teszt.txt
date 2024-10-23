@@ -1,0 +1,11 @@
+2. feladat
+Én erre a kérdésre, talán a CSSben kutakodnék.
+CSS problémák:
+	- Z-index problémák, lehet , hogy a gomb fölött van egy másik elem, aminek a z-indexsze nagyobb, mint a gombbé.
+	- Lehet, hogy a fejlesztő elfelejtette megírni a hover eseményt. Erre kisebb esélyt látok, főleg ha kód szinten minden rendben van, de emberek vagyunk
+	ez is előfordulhat.
+	- Az sem kizárt, hogy valamilyen okból, a gomb, parent elementjén kivannak kapcsolva a pointer eventek, így hiába hoverelünk, semmi sem fog történni.
+4. feladat
+A negyedik kérdés egy kicsit gondolkodósabb számomra, itt 1 megoldás jutott eszembe.
+UX szempontok:
+	-Felhasználónak zavaró lehet ez a layout, van lehetőség arra, hogy ez összezavarja a felhasználót.
